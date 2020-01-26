@@ -26,3 +26,7 @@ To do cursive you just put in *one asterisk at the beginning and end of the word
 PING PONG, PING PONG. Thanks for the tips! there is also more info here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 *end of message*
+
+
+
+## In First_Gitpong Karolina and I worked together, in the basic pong as well as advance pong!
